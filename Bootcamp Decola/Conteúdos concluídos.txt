@@ -1,0 +1,7 @@
+Conteúdos: 
+- Boas Vindas 
+- Mentoria 1 
+- Lógica de Programação Essencial
+- Aprenda o que são algorítimos e Estrutura de dados	
+- Introdução ao Git e GitHub
+- Desafio Criando meu primeiro repositório no GitHub
